@@ -1,5 +1,5 @@
--💻 Fullstack Developer Jr<br>
--🐱‍👤 Studying Svelte / MERN / TypeScript
+-💻 Fullstack => Developer Jr<br>
+-🐱‍👤 Studying => Svelte / MERN / TypeScript
 
 <br>
 <a href = "mailto:santiago.garcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
