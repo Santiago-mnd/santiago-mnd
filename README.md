@@ -1,7 +1,9 @@
 -💻 Fullstack => Developer Jr<br>
 -🐱‍👤 Studying => Svelte / MERN / TypeScript
 
-<a href = "mailto:santiago.garcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:santiago.garcia.dev@gmail.com" style="display: block;" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+![](https://komarev.com/ghpvc/?username=Santiago-mnd&color=blue&label=Geeky_Clicks&style=plastic)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Sg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
