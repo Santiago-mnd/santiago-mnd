@@ -1,4 +1,4 @@
--💻 Fullstack => Developer Jr<br>
+-💻 Fullstack => Developer II<br>
 -🐱‍👤 Studying => Svelte / MERN / TypeScript
 
 <a href="mailto:santiago.garcia.dev@gmail.com" style="display: block;" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -23,8 +23,6 @@
    <p style="font-size: 180em;" > 🤔 </p>
   
   ![spcode-4cOdK2wGLETKBW3PvgPWqT](https://user-images.githubusercontent.com/85137304/203150953-4923d3ef-432e-4549-bb63-97d4d5832296.jpeg)
-    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
