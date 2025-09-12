@@ -16,7 +16,7 @@
 ### About me
 - I build **fast, accessible, measurable** UI (Lighthouse, a11y, UX states).
 - End-to-end delivery: **tests (Vitest/RTL/Playwright)**, **CI (GitHub Actions)**, **Commitizen**.
-- Experience with **Meta WhatsApp Business Platform** (flows, templates, migrations) and **.NET/C#** (APIs, Blazor).
+- Experience with **Meta WhatsApp Business Platform** (Cloud API, flows, templates, migrations) and **.NET/C#** (APIs, **Blazor**).
 
 ### Tech I use
 <p align="left">
@@ -34,6 +34,7 @@
   <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="C#"      height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt=".NET"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Blazor"  height="30" src="https://cdn.simpleicons.org/blazor" />
   <!-- DB/Cloud -->
   <img alt="MongoDB"   height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="PostgreSQL"height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -52,7 +53,6 @@
 - **SvelteKit/React + Astro** for performance (islands/SSR).
 - **React Native + Expo** for mobile.
 - **APIs with Node.js** and **.NET**; real-world workflows with **WhatsApp Business Platform**.
-
 
 <details>
   <summary>👀 For the curious</summary>
