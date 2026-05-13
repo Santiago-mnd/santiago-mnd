@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Santiago+Garc%C3%ADa;Frontend-leaning+Full-Stack;Fast+%C2%B7+Accessible+%C2%B7+Measurable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Santiago+Garc%C3%ADa;Senior+Full+Stack+%7C+Tech+Lead;Ship+it.+Scale+it.+Own+it." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <code>TypeScript</code> &nbsp;·&nbsp;
-  <code>Svelte / React / Astro</code> &nbsp;·&nbsp;
+  <code>Svelte / React / Blazor</code> &nbsp;·&nbsp;
+  <code>C# / .NET 9</code> &nbsp;·&nbsp;
   <code>Node.js</code> &nbsp;·&nbsp;
-  <code>C# / .NET</code> &nbsp;·&nbsp;
   <code>WhatsApp Business Platform</code>
 </p>
 
@@ -30,10 +30,11 @@
 
 ## ⚡ About me
 
-- Build **fast, accessible, measurable** UIs — Lighthouse scores, a11y, and UX edge states covered.
+- Built and shipped production-grade **component libraries** integrated as full design systems — adopted cross-team, enforcing consistency at the architecture level.
+- Architected **WhatsApp Cloud API + WebRTC + SignalR** real-time communication flows; obtained Meta API approval end-to-end.
+- Enforce **DDD / CQRS / Clean Architecture** in .NET 9 teams — strict data contracts, abstraction layers, zero integration drift.
 - End-to-end delivery: **Vitest / RTL / Playwright** · **GitHub Actions CI** · **Commitizen**.
-- Deep experience with **Meta WhatsApp Business Platform** — Cloud API, flows, templates, migrations.
-- Backend in **.NET / C#** — REST APIs and **Blazor**.
+- Self-taught. Promoted fast. Ship things that last.
 
 <br/>
 
@@ -61,6 +62,7 @@
   <img alt="C#" height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
   <img alt=".NET" height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
   <img alt="Blazor" height="30" loading="lazy" src="https://cdn.simpleicons.org/blazor" />&nbsp;
+  <img alt="SignalR" height="30" loading="lazy" src="https://cdn.simpleicons.org/dotnet/512BD4" />&nbsp;
   <img alt="WhatsApp Business Platform" height="30" loading="lazy" src="https://cdn.simpleicons.org/whatsapp/25D366" />&nbsp;
   <img alt="Meta" height="30" loading="lazy" src="https://cdn.simpleicons.org/meta" />
 </div>
@@ -92,11 +94,22 @@
 
 | | |
 |---|---|
-| **Web** | SvelteKit / React + Astro — islands architecture & SSR |
+| **Component Architecture** | Blazor design system — reusable, decoupled, DDD-compliant |
+| **Real-time** | WebRTC + SignalR production flows over WhatsApp Business |
+| **Web** | SvelteKit / Astro — islands architecture & SSR |
 | **Mobile** | React Native + Expo |
-| **APIs** | Node.js + .NET — real-world WhatsApp Business flows |
 
 <br/>
+
+## 🤝 Community
+
+Volunteer at **[GOYN México — Voces y Agentes](https://vocesyagentes.goynmexico.org)** · Global Opportunity Youth Network
+
+Working with young people on economic inclusion and opportunity. On the technical side: UI/UX, full development and deployment of the platform — visual identity by the design team, everything from code to production and private metrics tracking on my end.
+
+<br/>
+
+
 
 ---
 
@@ -108,5 +121,7 @@
       src="https://user-images.githubusercontent.com/85137304/203150953-4923d3ef-432e-4549-bb63-97d4d5832296.jpeg" />
   </a>
 </details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=0" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=0" />
