@@ -1,126 +1,99 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:33283D,50:76558F,100:B9A5CF&height=10&section=header" />
-
-<h1 align="center">Santiago García Arellano</h1>
+<img width="100%" alt="Santiago García Arellano — tech lead and full stack engineer, Mexico City, remote" src="assets/portada.png" />
 
 <p align="center">
-  <strong>Senior Full Stack Engineer · Technical Lead · Deep Frontend Expertise</strong>
+  I led four developers to ship a React Native claims app in three months, and trained eight more on a component library that four teams adopted.<br/>
+  I have also built platforms end to end on my own — architecture through support — that are still running today.
 </p>
-
-<table>
-  <tr>
-    <td valign="top" width="34%">
-      <strong>PROFILE / SESSION 01</strong>
-      <br/><br/>
-      <code>USER: SANTIAGO-MND</code><br/>
-      <code>ROLE: FULL STACK / TECH LEAD</code><br/>
-      <code>FOCUS: FRONTEND SYSTEMS</code><br/>
-      <code>STATUS: ONLINE</code><br/>
-      <code>LOCATION: MEXICO CITY AREA</code>
-      <br/><br/>
-      <code>[ BUILD / SHIP / REPEAT ]</code>
-    </td>
-    <td valign="top" width="66%">
-      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=2800&pause=900&color=76558F&center=false&vCenter=true&width=540&lines=Full+Stack+Engineer+with+deep+frontend+expertise;Frontend+architecture+%7C+Design+systems;Product+engineering+%7C+Technical+leadership" alt="Santiago García — Full Stack Engineer with deep frontend expertise" />
-      <br/>
-      I build and lead production software across frontend systems, web and mobile products, real-time platforms, and developer tooling.
-      <br/><br/>
-      <code>DESIGN SYSTEMS</code>&nbsp;
-      <code>PRODUCT UI</code>&nbsp;
-      <code>FULL STACK</code>&nbsp;
-      <code>TECH LEAD</code>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://www.santiagos.mx">
     <img src="https://img.shields.io/badge/PORTFOLIO-santiagos.mx-76558F?style=flat-square&logo=astro&logoColor=F5F1F8" alt="Portfolio" />
   </a>
   <a href="mailto:santiago.garcia.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-33283D?style=flat-square&logo=gmail&logoColor=F5F1F8" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-START%20A%20PROJECT-33283D?style=flat-square&logo=gmail&logoColor=F5F1F8" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Santiago-mnd&color=B9A5CF&label=PROFILE%20VIEWS&style=flat-square" alt="Profile views" />
 </p>
 
 <br/>
 
-## / about
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>POSITIONING</strong>
-      <br/><br/>
-      Full Stack Engineer with deep frontend expertise. I specialize in frontend architecture, design systems, product engineering, and technical leadership while retaining end-to-end ownership.
-      <br/><br/>
-      <code>FRONTEND_ARCHITECTURE</code><br/>
-      <code>DESIGN_SYSTEMS</code><br/>
-      <code>PRODUCT_ENGINEERING</code><br/>
-      <code>TECHNICAL_LEADERSHIP</code>
-    </td>
-    <td valign="top" width="50%">
-      <strong>ENGINEERING APPROACH</strong>
-      <br/><br/>
-      I turn complex product ideas into maintainable software — from UI/UX implementation and reusable components to APIs, testing, deployment, analytics, and production ownership.
-      <br/><br/>
-      <code>CLEAR_CONTRACTS</code><br/>
-      <code>REUSABLE_SYSTEMS</code><br/>
-      <code>CONTROLLED_DELIVERY</code><br/>
-      <code>MEASURABLE_IMPACT</code>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <code>SPANISH: NATIVE</code>&nbsp;&nbsp;
-  <code>ENGLISH: B2 PROFESSIONAL</code>&nbsp;&nbsp;
-  <code>REMOTE + SCHEDULED CDMX</code>
-</p>
-
-<br/>
-
-## / current focus
+## / what I can take off your hands
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <strong>FRONTEND ARCHITECTURE</strong>
+      <strong>A PRODUCT, FROM NOTHING</strong>
       <br/><br/>
-      TypeScript, SvelteKit, React, React Native, Blazor, and shared component libraries built for reuse at scale.
+      First sketch to a live URL: architecture, interface, API, deployment, analytics, and the support that comes after launch. One person, one thread of accountability.
     </td>
     <td valign="top" width="33%">
-      <strong>PRODUCT ENGINEERING</strong>
+      <strong>A FRONTEND THAT STOPS SLOWING YOU DOWN</strong>
       <br/><br/>
-      UI/UX implementation through testing, deployment, analytics, support, and production ownership.
+      Design systems and shared component libraries. At Sekura, a 30-component library cut interface build time by 40–50%.
     </td>
     <td valign="top" width="33%">
-      <strong>REAL-TIME PLATFORMS</strong>
+      <strong>A TEAM THAT SHIPS</strong>
       <br/><br/>
-      WhatsApp Cloud API, WebRTC, and SignalR workflows designed for production environments on Azure.
+      Technical leadership, code review, and the unglamorous standards that keep a codebase workable long after I step away from it.
     </td>
   </tr>
 </table>
 
 <br/>
 
-## / selected impact
+## / what that has looked like
 
 <table>
   <tr>
     <td valign="top" width="33%">
       <strong>ZORYA / EVERLAY GROUP</strong>
       <br/><br/>
-      Built <code>BuzZync.Components</code> with .NET 9, Blazor, and MudBlazor: approximately 50% faster prototyping, adoption across four teams, and eight developers trained.
+      Built <code>BuzZync.Components</code> with .NET 9, Blazor, and MudBlazor. Prototyping got roughly 50% faster, four teams adopted it, and eight developers were trained on it.
     </td>
     <td valign="top" width="33%">
       <strong>SEKURA</strong>
       <br/><br/>
-      Led four developers and shipped a React Native claims application in three months, reaching 88% adoption. A 30-component library reduced interface build time by 40–50%.
+      Led four developers and shipped a React Native claims application in three months. It reached 88% adoption.
     </td>
     <td valign="top" width="33%">
       <strong>XTENDOPS</strong>
       <br/><br/>
-      Contributed within a 13-person team to a full Meteor/JavaScript → SvelteKit/TypeScript migration for a platform that surpassed 40,000 registered accounts.
+      Worked inside a 13-person team on a full Meteor/JavaScript to SvelteKit/TypeScript migration, for a platform past 40,000 registered accounts.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## / shipped alone, start to finish
+
+These are the ones where there was nobody else to hand the hard part to.
+
+<table>
+  <tr>
+    <td valign="top" width="28%">
+      <strong><a href="https://vocesyagentes.goynmexico.org">VOCES Y AGENTES</a></strong><br/>
+      <sub>GOYN MÉXICO</sub>
+    </td>
+    <td valign="top" width="72%">
+      Sole developer: functional architecture, UX/UI, development, deployment, PostHog, SEO, support, and the iteration that followed. In production and still running. Visual system by Ana Victoria Ávila.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="28%">
+      <strong><a href="https://entrevistas.sintitulo.dev">ENTREVISTAS</a></strong><br/>
+      <sub>FREE, NO ACCOUNT REQUIRED</sub>
+    </td>
+    <td valign="top" width="72%">
+      Spoken job-interview rehearsal. The loop runs mic to speech-to-text to an LLM interviewer to speech and back over a WebSocket, with voice-activity detection deciding when you have finished answering. Svelte 5, Fastify, Gemini, and ElevenLabs, on Cloud Run.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="28%">
+      <strong><a href="https://ats.sintitulo.dev">TU CV CUENTA</a></strong><br/>
+      <sub>FREE, NO ACCOUNT REQUIRED</sub>
+    </td>
+    <td valign="top" width="72%">
+      Next.js, Vercel, PostHog, Redis, Google APIs, and Gemini Flash-Lite 3.1, with IP-based rate limits so the cost stays survivable. Built and paid for on my own.
     </td>
   </tr>
 </table>
@@ -183,61 +156,23 @@
   </tr>
 </table>
 
-<br/>
-
-## / activity
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago-mnd&bg_color=F5F1F8&color=33283D&line=76558F&point=B7799A&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
-
-<h3 align="center">[ CONTRIBUTIONS ]</h3>
-
-<p align="center">
-  <img width="100%" src="./dist/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
-</p>
-
-<h3 align="center">[ CODING ACTIVITY ]</h3>
-
-<p align="center">
-<a href="https://wakatime.com/share/@018df337-ba76-4f6f-8058-3579041c54e9/0124bc01-6c17-4cbd-b3f8-24850c7bca32.svg">
-  <img width="100%" src="https://wakatime.com/share/@018df337-ba76-4f6f-8058-3579041c54e9/0124bc01-6c17-4cbd-b3f8-24850c7bca32.svg" alt="WakaTime coding activity for the last 30 days" />
-  </a>
+  <code>SPANISH: NATIVE</code>&nbsp;&nbsp;
+  <code>ENGLISH: B2 PROFESSIONAL</code>&nbsp;&nbsp;
+  <code>REMOTE + SCHEDULED CDMX</code>
 </p>
 
 <br/>
 
-## / community
+## / working together
 
-<table>
-  <tr>
-    <td valign="top" width="28%">
-      <strong><a href="https://vocesyagentes.goynmexico.org">VOCES Y AGENTES</a></strong><br/>
-      <sub>GOYN MÉXICO</sub>
-    </td>
-    <td valign="top" width="72%">
-      Sole developer responsible for functional architecture, UX/UI implementation, development, deployment, PostHog, SEO, support, and ongoing iteration. The visual system was designed by Ana Victoria Ávila.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="28%">
-      <strong>METRO GOYN</strong><br/>
-      <sub>COLLABORATIVE PROGRESS SYSTEM</sub>
-    </td>
-    <td valign="top" width="72%">
-      Sole developer responsible for architecture and UX/UI. Built with SvelteKit, Vite, Tailwind CSS, and GSAP to organize 19 plenary responses across four themes and five analytical lenses. Visual system and signage were developed with Ana Victoria Ávila.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="28%">
-      <strong>ATS TRAINER</strong><br/>
-      <sub>INDEPENDENT COMMUNITY PROJECT</sub>
-    </td>
-    <td valign="top" width="72%">
-      Free project built independently with Next.js, Vercel, PostHog, Redis, Google APIs, and Gemini Flash-Lite 3.1, including IP-based usage limits to protect resources.
-    </td>
-  </tr>
-</table>
+Tell me what needs to exist and by when. If I am the wrong person for it, I will say so and point you somewhere better.
+
+<p align="center">
+  <a href="mailto:santiago.garcia.dev@gmail.com"><strong>santiago.garcia.dev@gmail.com</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.santiagos.mx"><strong>santiagos.mx</strong></a>
+</p>
 
 <br/>
 
@@ -249,4 +184,3 @@
   </a>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B9A5CF,50:76558F,100:33283D&height=10&section=footer" />
