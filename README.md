@@ -13,7 +13,7 @@
   <a href="https://www.santiagos.mx">
     <img src="https://img.shields.io/badge/PORTFOLIO-santiagos.mx-76558F?style=flat-square&logo=astro&logoColor=F5F1F8" alt="Portfolio" />
   </a>
-  <a href="mailto:santiago.garcia.dev@gmail.com">
+  <a href="mailto:santiago@santiagos.mx">
     <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-33283D?style=flat-square&logo=gmail&logoColor=F5F1F8" alt="Email" />
   </a>
 </p>
@@ -231,7 +231,7 @@ Solo projects built end to end, from architecture and UX/UI through deployment a
 I’m based in Mexico City and work remotely on Mexico City time. For a role or technical conversation related to this work, send me a note.
 
 <p align="center">
-  <a href="mailto:santiago.garcia.dev@gmail.com"><strong>santiago.garcia.dev@gmail.com</strong></a>
+  <a href="mailto:santiago@santiagos.mx"><strong>santiago@santiagos.mx</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.santiagos.mx"><strong>santiagos.mx</strong></a>
 </p>
