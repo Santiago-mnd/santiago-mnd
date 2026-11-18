@@ -14,7 +14,7 @@ I’m Santiago García, a Senior Full Stack Engineer and Technical Lead focused 
 
 ## Selected experience
 
-- **Zorya / Everlay Group · Lead Software Engineer:** Built browser and mobile calling with WhatsApp Cloud API, WebRTC, and SignalR. Individual and call center routing ran below 200 ms on Azure. Published a component library adopted by four teams.
+- **Zorya / Everlay Group · Full Stack Developer:** Built browser and mobile calling with WhatsApp Cloud API, WebRTC, and SignalR. Individual and call center routing ran below 200 ms on Azure. Published a component library adopted by four teams.
 - **Sekura · Tech Lead Mobile:** Led four developers from kickoff to production on an Android and iOS claims app. It shipped in three months and reached 88% adoption.
 - **Earlier work:** Built production RAG support agents for multiple clients starting in March 2022.
 
