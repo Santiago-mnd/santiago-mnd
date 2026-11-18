@@ -8,7 +8,9 @@ Mexico City · Remote, CDMX hours · [Official website](https://santiagos.mx/en/
 
 <img width="100%" alt="Santiago García Arellano. Senior Full Stack Engineer · Technical Lead · Applied AI. Mexico City · Remote · CDMX hours" src="assets/portada.png" />
 
-I’m Santiago García, a Senior Full Stack Engineer and Technical Lead working primarily in C#/.NET and TypeScript. I build production software across web, mobile, and applied AI.
+I’m Santiago García, a Senior Full Stack Engineer and Technical Lead focused on frontend development with TypeScript. I build production software across web, mobile, and applied AI.
+
+**Stack:** TypeScript · Svelte · React / React Native · Astro · Next.js · Node.js · Tailwind CSS · GSAP · PostgreSQL · Firebase · applied AI (RAG, LLMs)
 
 ## Selected experience
 
@@ -21,6 +23,10 @@ I’m Santiago García, a Senior Full Stack Engineer and Technical Lead working 
 - **[Metro GOYN](https://somos.goynmexico.org):** Sole architect and UX/UI developer of an interactive 2.5D system that organizes 19 responses from GOYN CDMX’s 2026 plenary into four metro lines. Co-designed the visual system and signage with Ana Victoria Ávila.
 - **[DeUna](https://deuna.cattion.com):** Built with Tania Belen Gayosso Dominguez for Cursor Hackatón México 2026. The live app accepts real CoDi payments from a phone. [Source code](https://github.com/Santiago-mnd/cursor-hackathon-2026).
 - **[herdr-usage](https://github.com/Santiago-mnd/herdr-usage):** Built an early-stage, open-source Rust plugin that asks coding agents for a handoff before a usage window ends, then resumes their terminal panes when it resets.
+
+## Community
+
+I’ve volunteered with GOYN CDMX’s Grupo Asesor de Jóvenes (GAJ) since December 2025. I’m also part of Cattion, a three-person collective spanning technology, design, and the humanities. See [Cattion’s site](https://cattion.com) for the games and workshops we’ve brought to Chalco, UNAM’s FES Aragón, and Morelia.
 
 ## Contact
 
